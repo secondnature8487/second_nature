@@ -45,7 +45,7 @@ import {
     //
     symbol: "Purple",
     //
-    uri: "https://view.storydoc.com/mNo2qMfM",
+    uri: "https://drive.google.com/drive/folders/14ZPrrspdBB40sV_U0XQByhKCz7-Ar5H6?usp=drive_link",
   };
 
   // image url: [https://bafybeihkc3tu4ugc5camayoqw7tl2lahtzgm2kpiwps3itvfsv7zcmceji.ipfs.nftstorage.link/](https://drive.google.com/drive/folders/14ZPrrspdBB40sV_U0XQByhKCz7-Ar5H6?usp=drive_link)
